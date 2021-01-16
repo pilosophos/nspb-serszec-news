@@ -1,0 +1,12 @@
+.logo {
+  font-family: 'UnifrakturCook', cursive;
+}
+
+.out-of-date-warn {
+  background-color: gold;
+}
+
+.dreamtalk {
+  background: rgb(205,242,242);
+  background: linear-gradient(0deg, rgba(205,242,242,1) 0%, rgba(255,255,255,1) 100%);
+}
