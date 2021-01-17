@@ -13,6 +13,11 @@
 
 .recc-article-img {
   width: 100%;
-  height: 10rem;
+  max-width: 300px;
+  max-height: 10rem;
   overflow: hidden
+}
+
+.recc-articles > div {
+  max-width: 300px;
 }
