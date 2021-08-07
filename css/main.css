@@ -18,6 +18,12 @@
   overflow: hidden
 }
 
+.recc-articles {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+
 .recc-articles > div {
   max-width: 300px;
 }
